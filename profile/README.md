@@ -1,7 +1,7 @@
 # Kingdom Hearts Re:Freshed
 So, what *is* this?
 
-Re:Freshed is a continuation/revival/archival of the Re:Fined project, previously led by [TopazTK](https://github.com/TopazTK). Due to uncertain circumstances, he has dipped the project. We have chosen to maintain the repositories out of consideration for all contributors, whether they contributed financially or emotionally.
+Re:Freshed is a continuation/revival/archival of the Re:Fined project, previously led by [TopazTK](https://github.com/TopazTK). Due to uncertain circumstances, he has indefinitely abandoned the project. We have chosen to maintain the repositories out of consideration for all contributors, supporters, and users, regardless of whether they contributed financially or emotionally.
 
 We currently have no active maintainer, so as of 11.11.2023, this project is strictly an archival of all available assets. We can not change the code in any meaningful way, at the moment. Hell, we're not even sure on how to compile it at the moment.
 
