@@ -31,14 +31,43 @@ You can see which games are supported, and which patches are live below:
 - [Re:Freshed KH2 Vanilla Enemy OpenKH Patch](https://github.com/KH-ReFreshed/KH2-VanillaEnemy) - KH2 Vanilla Enemy Color Palette OpenKH repository for the mod. Unmaintained.
 - [Re:Freshed KH2 "He's a Pirate" MIDI OpenKH Patch](https://github.com/KH-ReFreshed/KH2-PirateMIDI) - KH2 "He's a Pirate" MIDI *only* OpenKH repository for the mod. Unmaintained.
 
-## Support
+## Supporters
+This project relied heavily on Patrons for development in the past. The Re:Freshed team does not ask for any money, however.
 
-This project relied solely on Patrons for development. The Re:Freshed team does not ask for any money, however.
-
-The contributions of these Patrons need acknowledgement specifically, since their lifetime support exceeds 200€:  
-
-- Xendra
-- Snappygus
-- Draxie
-- Explode
-- oli1428
+The contributions of these Patrons deserve acknowledgement separately:
+- Xendra (591$)
+- Draxie (300£)
+- UnitySonic (>230$)
+- ZappyG (200€)
+- Snappygus (At least 200€)
+- Explode (At least 200€)
+- oli1428 (At least 200€)
+- Vile Alihabaki𓆏 (78$)
+- Senior_Gatos (67$)
+- Lexi (57$)
+- OmegaMalkior (~80$)
+- barble (At least 29$)
+- The Rat King (at least 29$)
+- Zyfire (at least 29$)
+- GoldenSky (15€)
+- Krujo (At least 11$)
+- Chronotakular (At least 11$)
+- Poldovico (At least 11$)
+- Dean (At least 11$)
+- Scrungus (At least 11$)
+- Maxy89c (At least 11$)
+- Nate Condor (At least 11$)
+- monotoro (At least 11$)
+- SpeedyLemon (11$)
+- Travis (At least 6$)
+- Majid (At least 6$)
+- MasterYami (At least 6$)
+- Drew R (At least 6$)
+- drip (At least 6$)
+- RikuoTanakaID (At least 6$)
+- KHOmega (At least 6$)
+- TwoBreathsWalking (At least 6$)
+- Celestial Chimera (At least 6$)
+- Alexo (At least 6$)
+- hardback24726 (At least 6$)
+- minspi (5$)
