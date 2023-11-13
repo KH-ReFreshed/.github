@@ -1,4 +1,3 @@
-# Kingdom Hearts Re:Freshed
 ![IMG_0845](https://github.com/KH-ReFreshed/.github/assets/70141395/934fbe43-27ef-40d7-a31f-7ee6aba8b564)
 
 [![Discord](https://img.shields.io/badge/Kingdom%20Hearts%20Re%3AFreshed-Discord?logo=discord&label=Discord&color=%235539cc)](https://discord.gg/6r7yeDBaFx)
