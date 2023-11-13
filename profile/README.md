@@ -46,6 +46,7 @@ The contributions of these Patrons deserve acknowledgement separately:
 - Poldovico (108€)
 - OmegaMalkior (~80$)
 - Vile Alihabaki𓆏 (78$)
+- blobdash (72€)
 - Senior_Gatos (67$)
 - Lexi (57$)
 - BearBearian (60$ CAD)
@@ -71,4 +72,4 @@ The contributions of these Patrons deserve acknowledgement separately:
 - Celestial Chimera (At least 6$)
 - Alexo (At least 6$)
 - hardback24726 (At least 6$)
-- minspi (5$)
+- minspi (6$)
